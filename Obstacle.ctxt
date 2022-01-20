@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=x\ y
+comment1.target=Obstacle(int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+comment5.params=
+comment5.target=java.awt.Rectangle\ getShape()
+numComments=6

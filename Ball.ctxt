@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=x\ y
+comment1.target=Ball(int,\ int)
+comment2.params=dy
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=n
+comment7.target=void\ setX(int)
+comment8.params=n
+comment8.target=void\ setY(int)
+comment9.params=g
+comment9.target=void\ draw(java.awt.Graphics)
+numComments=10
